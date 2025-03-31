@@ -1,4 +1,4 @@
-# QuizzBee
+# QuizWhiz
 
 ## Upload your class transcripts and generate questions to test your understandings!!
 
