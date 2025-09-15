@@ -1,8 +1,8 @@
 # QuizWhiz
 
-**Transform your class transcripts into interactive quizzes powered by AI!**
+**Transform your lecture transcripts into interactive quizzes powered by AI!**
 
-QuizWhiz is an intelligent quiz generation platform that converts your class transcripts into engaging multiple-choice questions. Upload your text files and let AI create personalized quizzes to test your understanding of the material.
+QuizWhiz is an intelligent quiz generation platform that converts your lecture transcripts into engaging multiple-choice questions. Upload your text files and let AI create personalized quizzes to test your understanding of the material.
 
 ## ✨ Features
 
