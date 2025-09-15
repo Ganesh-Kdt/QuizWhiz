@@ -126,8 +126,4 @@ python manage.py migrate        # Apply database migrations
 python manage.py test          # Run tests
 ```
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
